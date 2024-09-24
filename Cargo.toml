@@ -1,0 +1,5 @@
+[workspace]
+members = [
+"github_client",
+"nextcloud_client"
+]
