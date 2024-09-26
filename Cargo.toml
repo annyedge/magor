@@ -1,5 +1,2 @@
 [workspace]
-members = [
-"github_client",
-"nextcloud_client"
-]
+members = [ "app","github_client", "nextcloud_client", "utils"]

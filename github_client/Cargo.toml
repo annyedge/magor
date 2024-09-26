@@ -4,3 +4,5 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+octocrab = "0.40.0"
+utils = { path = "../utils" }
